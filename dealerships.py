@@ -42,9 +42,3 @@ class Dealers:
             print("You can do better.")
         return
 
-
-    def idiot(self):
-        if self.city == "Middleton":
-            print("You're an idiot.")
-        return
-
